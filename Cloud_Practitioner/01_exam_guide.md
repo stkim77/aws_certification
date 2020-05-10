@@ -3,7 +3,8 @@
 1. AWS 에서 해당 자격증에 대한 가이드 문서를 아래와 같이 제공하고 있다.
 
     - <https://aws.amazon.com/certification/certified-cloud-practitioner/>
-    - <https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS_Certified_Cloud_Practitioner_Exam_Guide_v2.1.pdf>
+    - 영어가이드 : <https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS_Certified_Cloud_Practitioner_Exam_Guide_v2.1.pdf>
+    - 한글가이드 : <https://d1.awsstatic.com/ko_KR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf>
 
 2. Cloud Practitioner 자격증을 통한 능력 검증 (AWS 홈페이지에 명시되어 있음)
     - AWS 클라우드와 기본 글로벌 인프라가 무엇인지 정의
@@ -25,21 +26,21 @@
 
     ![domain](./images/domain.png)
 
-    - Domain 1: Cloud Concepts
-      - 1.1 Define the AWS Cloud and its value proposition
-      - 1.2 Identify aspects of AWS Cloud economics
-      - 1.3 List the different cloud architecture design principles
-    - Domain 2: Security and Compliance
-      - 2.1 Define the AWS shared responsibility model
-      - 2.2 Define AWS Cloud security and compliance concepts
-      - 2.3 Identify AWS access management capabilities
-      - 2.4 Identify resources for security support
-    - Domain 3: Technology
-      - 3.1 Define methods of deploying and operating in the AWS Cloud
-      - 3.2 Define the AWS global infrastructure
-      - 3.3 Identify the core AWS services
-      - 3.4 Identify resources for technology support
-    - Domain 4: Billing and Pricing
-      - 4.1 Compare and contrast the various pricing models for AWS
-      - 4.2 Recognize the various account structures in relation to AWS billing and pricing
-      - 4.3 Identify resources available for billing support
+    - 도메인 1: 클라우드 개념
+      - 1.1 AWS 클라우드 및 가치 제안 정의
+      - 1.2 AWS 클라우드의 경제적 측면 파악
+      - 1.3 클라우드 아키텍처의 다양한 설계 원리 나열
+    - 도메인 2: 보안
+      - 2.1 AWS 책임 분담 모델 정의
+      - 2.2 AWS 클라우드의 보안 및 규정 준수 개념 정의
+      - 2.3 AWS 액세스 관리 기능 확인
+      - 2.4 보안 지원 리소스 파악
+    - 도메인 3: 기술
+      - 3.1 AWS 클라우드 내 배치 및 운영 방법 정의
+      - 3.2 AWS 글로벌 인프라 정의
+      - 3.3 핵심 AWS 서비스 파악
+      - 3.4 기술 지원 리소스 파악
+    -도메인 4: 결제 및 요금
+      - 4.1 AWS의 다양한 요금 모델 비교 및 대조
+      - 4.2 AWS 결제 및 요금과 관련된 여러 가지 계정 구조 인식
+      - 4.3 결제 지원에 이용할 수 있는 리소스 파악
