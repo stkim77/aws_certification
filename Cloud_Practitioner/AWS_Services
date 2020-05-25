@@ -1,0 +1,356 @@
+Six Advantages of Cloud Computing
+• Trade capital expense for variable expense – Instead of having to
+invest heavily in data centers and servers before you know how you’re
+going to use them, you can pay only when you consume computing
+resources, and pay only for how much you consume.
+• Benefit from massive economies of scale – By using cloud
+computing, you can achieve a lower variable cost than you can get on
+your own. Because usage from hundreds of thousands of customers is
+aggregated in the cloud, providers such as AWS can achieve higher
+economies of scale, which translates into lower pay as-you-go prices.
+• Stop guessing capacity – Eliminate guessing on your infrastructure
+capacity needs. When you make a capacity decision prior to deploying
+an application, you often end up either sitting on expensive idle
+resources or dealing with limited capacity. With cloud computing, these
+problems go away. You can access as much or as little capacity as you
+need, and scale up and down as required with only a few minutes’
+notice.
+• Increase speed and agility – In a cloud computing environment, new
+IT resources are only a click away, which means that you reduce the
+time to make those resources available to your developers from weeks
+to just minutes. This results in a dramatic increase in agility for the
+organization, since the cost and time it takes to experiment and develop
+is significantly lower.
+• Stop spending money running and maintaining data centers –
+Focus on projects that differentiate your business, not the infrastructure.
+Cloud computing lets you focus on your own customers, rather than on
+the heavy lifting of racking, stacking, and powering servers.
+• Go global in minutes – Easily deploy your application in multiple
+regions around the world with just a few clicks. This means you can
+provide lower latency and a better experience for your customers at
+minimal cost
+
+
+
+Analytics
+- Amazon Athena
+- Amazon EMR
+- Amazon EMR
+- Amazon Elasticsearch Service
+- Amazon Kinesis
+- Amazon Kinesis Data Firehose
+- Amazon Kinesis Data Analytics
+- Amazon Kinesis Data Streams
+- Amazon Kinesis Video Streams
+- Amazon Redshift
+- Amazon QuickSight
+- AWS Data Pipeline
+- AWS Glue
+- AWS Lake Formation
+- Amazon Managed Streaming for Kafka (MSK)
+
+
+Application Integration
+- AWS Step Functions
+- Amazon MQ
+- Amazon SQS
+- Amazon SNS
+- Amazon SWF
+
+
+AR and VR
+- Amazon Sumerian
+
+
+AWS Cost Management
+- AWS Cost Explorer
+- AWS Budgets
+- AWS Cost & Usage Report
+- Reserved Instance (RI) Reporting
+
+
+BlockchainBlockchain
+- Amazon Managed Blockchain
+
+
+
+Business Applications
+- Alexa for Business
+- Amazon WorkDocs
+- Amazon WorkMail
+- Amazon Chime
+
+
+
+Compute
+- Amazon EC2
+- Amazon EC2 Auto Scaling
+- Amazon Elastic Container Registry
+- Amazon Elastic Container Service
+- Amazon Elastic Container Service for Kubernetes
+- Amazon Lightsail
+- AWS Batch
+- AWS Elastic Beanstalk
+- AWS Fargate
+- AWS Lambda
+- AWS Serverless Application Repository
+- AWS Outposts
+- VMware Cloud on AWS
+
+
+
+Customer Engagement
+- Amazon Connect
+- Amazon SES
+
+
+
+Database
+- Amazon Aurora
+- Amazon RDS
+- Amazon RDS on VMware
+- Amazon DynamoDB
+- Amazon ElastiCache
+- Amazon Neptune
+- Amazon Quantum Ledger Database (QLDB)
+- Amazon Timestream
+
+
+
+Desktop and App Streaming
+- Amazon WorkSpaces
+- Amazon AppStream 2.0
+
+
+
+Developer Tools
+- AWS CodeCommit
+- AWS CodeBuild
+- AWS CodeDeploy
+- AWS CodePipeline
+- AWS CodeStar
+- Amazon Corretto
+- AWS Cloud9
+- AWS X-Ray
+
+
+
+Game Tech
+- Amazon GameLift
+- Amazon Lumberyard
+
+
+
+Internet of Things (IoT)
+- AWS IoT Core
+- Amazon FreeRTOS
+- AWS IoT Greengrass
+- AWS IoT 1-Click
+- AWS IoT Analytics
+- AWS IoT Button
+- AWS IoT Device Defender
+- AWS IoT Device Management
+- AWS IoT Events
+- AWS IoT SiteWise
+- AWS IoT Things Graph
+- AWS Partner Device Catalog
+
+
+
+Machine Learning
+- Amazon SageMaker
+- Amazon SageMaker Ground Truth
+- Amazon Comprehend
+- Amazon Lex
+- Amazon Polly
+- Amazon Rekognition
+- Amazon Translate
+- Amazon Transcribe
+- Amazon Elastic Inference
+- Amazon Forecast
+- Amazon Textract
+- Amazon Personalize
+- Amazon Deep Learning AMIs
+- AWS DeepLens
+- AWS DeepRacer
+- Apache MXNet on AWS
+- TensorFlow on AWS
+- AWS Inferentia
+
+
+
+Management and Governance
+- Amazon CloudWatch
+- AWS Auto Scaling
+- AWS Control Tower
+- AWS Systems Manager
+- AWS CloudFormation
+- AWS CloudTrail
+- AWS Config
+- AWS OpsWorks
+- AWS Service Catalog
+- AWS Trusted Advisor
+- AWS Personal Health Dashboard
+- AWS Managed Services
+- AWS Console Mobile Application
+- AWS License Manager
+- AWS Well-Architected Tool
+
+
+
+Media Services
+- Amazon Elastic Transcoder
+- AWS Elemental MediaConnect
+- AWS Elemental MediaConvert
+- AWS Elemental MediaLive
+- AWS Elemental Media Package
+- AWS Elemental MediaStore
+- AWS Elemental MediaTailor
+
+
+
+Migration and Transfer
+- AWS Migration Hub
+- AWS Application Discovery Service
+- AWS Database Migration Service
+- AWS Server Migration Service
+- AWS Snowball
+- AWS Snowball Edge
+- AWS Snowmobile
+- AWS DataSync
+- AWS Transfer for SFTP
+
+
+
+Mobile
+- AWS Amplify
+- Amazon Cognito
+- Amazon Pinpoint
+- AWS Device Farm
+- AWS AppSync
+
+
+
+Networking and Content Delivery
+- Amazon VPC
+- Amazon CloudFront
+- Amazon Route 53
+- AWS PrivateLink
+- AWS Direct Connect
+- AWS Global Accelerator
+- Amazon API Gateway
+- AWS Transit Gateway
+- AWS App Mesh
+- AWS Cloud Map
+- Elastic Load Balancing
+
+
+
+Robotics
+- AWS RoboMaker
+
+
+
+Satellite
+- AWS Ground Station
+
+
+
+Security, Identity, and Compliance
+- AWS Security Hub
+- Amazon Cloud Directory
+- AWS Identity and Access Management
+- Amazon GuardDuty
+- Amazon Inspector
+- Amazon Macie
+- AWS Artifact
+- AWS Certificate Manager
+- AWS CloudHSM
+- AWS Directory Service
+- AWS Firewall Manager
+- AWS Key Management Service
+- AWS Organizations
+- AWS Secrets Manager
+- AWS Shield
+- AWS Single Sign-On (SSO)
+- AWS WAF
+
+
+
+Storage
+- Amazon S3
+- Amazon Elastic Block Store
+- Amazon Elastic File System
+- Amazon FSx for Lustre
+- Amazon FSx for Windows File Server
+- Amazon S3 Glacier
+- AWS Storage Gateway
+
+
+
+주요 서비스
+
+Amazon EC2
+클라우드의 가상 서버
+
+Amazon Elastic Compute Cloud(EC2)는 안전하고 크기 조정이 가능한 컴퓨팅 파워를 클라우드에서 제공하는 웹 서비스입니다.
+
+종량 과금제
+매달 말에 실제로 사용한 EC2 리소스에 대한 요금이 청구됩니다.
+인스턴스 시간 또는 데이터 전송과 같은 실제로 소비한 리소스에 대해서만 비용을 지불합니다.
+
+Amazon EC2 Auto Scaling을 사용하면 정의한 조건에 따라 Amazon EC2 용량을 자동으로 확장하거나 축소할 수 있습니다.
+EC2 Auto Scaling은 사용량이 시간, 일 또는 주 단위로 바뀌는 애플리케이션에 특히 적합하고
+EC2 Auto Scaling은 Amazon CloudWatch를 통해 활성화되며 Amazon CloudWatch 요금 외에 추가 비용이 발생하지 않습니다. 
+
+
+
+온디맨드 - 실행하는 인스턴스에 따라 시간당 또는 초당 컴퓨팅 파워에 대한 비용을 지불
+Savings Plans - 1년 또는 3년 기간의 일정 사용량 약정(시간당 요금을 기준으로 측정)
+예약 인스턴스 - 예약 인스턴스는 온디맨드 인스턴스 요금과 비교하여 상당한 할인 혜택(최대 75%)을 제공
+스팟 인스턴스(AWS 클라우드에서 미사용 EC2 용량을 활용) - 온디맨드 요금보다 최대 90% 할인된 가격으로 예비 Amazon EC2 컴퓨팅 용량을 요청할 수 있습니다
+전용 호스팅(고객 전용 물리적 서버에 EC2 인스턴스 용량을 제공) - 
+
+
+
+
+
+Amazon Simple Storage Service(S3)
+클라우드에서의 확장 가능한 스토리지
+
+Amazon Simple Storage Service(Amazon S3)는 업계 최고의 확장성과 데이터 가용성 및 보안과 성능을 제공하는 객체 스토리지 서비스입니다.
+
+데이터는 “버킷”이라는 리소스에 객체로 저장되며, 한 객체의 크기는 최대 5테라바이트까지 가능
+
+
+
+
+
+Amazon Aurora
+관리형의 고성능 관계형 데이터베이스
+
+Amazon Aurora는 고성능 상용 데이터베이스의 성능과 가용성에 오픈 소스 데이터베이스의 간편성과 비용 효율성을 결합하였으며
+클라우드를 위해 구축된 MySQL 및 PostgreSQL 호환 관계형 데이터베이스입니다
+
+
+
+
+
+
+Amazon DynamoDB
+관리형 NoSQL 데이터베이스
+
+Amazon RDS
+MySQL, PostgreSQL, Oracle, SQL Server 및 MariaDB를 위한 관리형의 관계형 데이터베이스 서비스
+
+AWS Lambda
+서버에 대한 걱정 없이 코드 실행
+
+Amazon VPC
+격리된 클라우드 리소스
+
+Amazon Lightsail
+가상 프라이빗 서버 시작 및 관리
+
+Amazon SageMaker
+기계 학습 모델을 대규모로 구축, 교육 및 배포
