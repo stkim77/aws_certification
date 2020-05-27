@@ -1,0 +1,39 @@
+AWS 비용 관리
+
+AWS Cost Explorer
+AWS 비용 및 사용 분석
+
+AWS Cost Explorer는 시간에 따른 AWS 비용과 사용량을 시각화, 이해 및 관리할 수 있는 손쉬운 인터페이스를 제공합니다.
+
+
+AWS 예산
+사용자 지정 비용 및 사용 예산을 설정
+
+AWS 예산을 사용하면 비용 또는 사용량이 예산 금액을 초과하거나 초과할 것으로 예상될 때 알림을 받도록 사용자 지정 예산을 설정할 수 있습니다.
+AWS 예산을 사용하여 예약 사용률 또는 적용 범위 목표를 설정하고 사용률이 정의한 임계값 아래로 떨어질 때 알림을 받을 수 있습니다.
+예약 알림은 Amazon EC2, Amazon RDS, Amazon Redshift, Amazon ElastiCache 및 Amazon Elasticsearch 예약에 대해 지원됩니다.
+
+
+
+AWS 비용 및 사용 보고서
+포괄적인 비용 및 사용 정보에 액세스
+
+AWS 비용 및 사용 보고서에는 AWS 서비스, 요금 및 예약(예: Amazon EC2 예약 인스턴스(RI))에 대한 추가 메타데이터를 비롯하여 사용 가능한 가장 포괄적인 AWS 비용 및 사용 데이터가 포함됩니다.
+
+
+
+예약 인스턴스 보고
+예약 인스턴스(RI) 심층 분석
+
+AWS는 Amazon EC2, Amazon RDS, Amazon Elasticsearch, Amazon ElastiCache 및 Amazon Redshift 예약을 효과적으로 관리하고 모니터링할 수 있도록 다양한 RI별 비용 관리 솔루션을 기본적으로 제공합니다.
+예약 인스턴스 사용률 및 비율 보고서는 AWS Cost Explorer에서 기본적으로 제공됩니다.
+
+
+
+Savings Plans
+유연한 요금으로 컴퓨팅 사용량에 따른 비용 72% 절감
+AWS 컴퓨팅 서비스를 위한 유연한 요금 모델
+
+Savings Plans에서는 1년 또는 3년 동안 특정 양의 컴퓨팅 파워를 사용하기로 약정함으로써 EC2 예약 인스턴스와 마찬가지로 온디맨드에 비해 상당한 비용을 절감할 수 있습니다.
+1년 또는 3년 약정으로 Savings Plans에 가입할 수 있으며 AWS Cost Explorer에서 권장 사항, 성능 보고 및 예산 알림 기능을 활용하여 플랜을 손쉽게 관리할 수 있습니다.
+
