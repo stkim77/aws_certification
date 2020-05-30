@@ -24,7 +24,7 @@
 
     가이드 문서에 명시된 문제 출제 영역 및 비중은 다음과 같다.
 
-    ![domain](./images/domain.png)
+    ![domain](./images/01_domain.png)
 
     - 도메인 1: 클라우드 개념 (26%)
       - 1.1 AWS 클라우드 및 가치 제안 정의
