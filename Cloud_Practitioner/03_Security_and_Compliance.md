@@ -79,8 +79,6 @@ AWS는 데이터센터와 네트워크에 어떤 고객의 요구사항도 충�
 
 ## AWS Shield
 - AWS에서 실행되는 애플리케이션을 보호하는 관리형 DDoS(Distributed Denial of Service) 보호 서비스
-- AWS Shield Standard : 
-- AWS Shield Advanced : 
 
 ### AWS Shield Standard
 추가 비용 없이 모든 AWS 고객이 사용할 수 있는 자동 보호
