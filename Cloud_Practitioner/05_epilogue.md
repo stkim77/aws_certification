@@ -6,24 +6,24 @@
 
 https://aws.amazon.com/ko/certification/certification-prep/
 
-<img src="./images/epilogue_01.png" width="500">
+<img src="./images/epilogue_01.png" width="800">
 
 - '기초등급의 AWS Certification' 선택
 - 기초등급에는 '클라우드 전문가' 1개만 있음
 - '지금 시험 예약'을 선택
 
-  <img src="./images/epilogue_02.png" width="500">
+  <img src="./images/epilogue_02.png" width="800">
 
 - 신규 페이지로 이동
 - 언어를 한국어로 변경
 - '새 시험 예약' 선택
 
-  <img src="./images/epilogue_03.png" width="500">
+  <img src="./images/epilogue_03.png" width="800">
 
 - 시험 목록에서 'AWS Certified Cloud Practitioner' 확인
 - 'Pearson VUE' or 'PSI' 선택해서 진행
 
-  <img src="./images/epilogue_04.png" width="500">
+  <img src="./images/epilogue_04.png" width="800">
 
 > 'Pearson VUE' or 'PSI' 어느 곳에서 시험을 신청해도 상관없다. PSI보다는 Pearson VUE가 시험장소가 많은 것 같다.
 
@@ -37,7 +37,8 @@ AWS FAQ에 나와 있는 공식 답변이다.
 
 
 ## 시험준비
-    만점을 받기 위한 시험 공부는 아니지만 합격은 하였기 때문에 혹시라도 누군가에게 가이드가 될 수 있다는 생각으로 어떻게 준비하였는지 정리를 해보았음.
+    만점을 받기 위한 시험 공부는 아니지만 합격은 하였기 때문에
+    혹시라도 누군가에게 가이드가 될 수 있다는 생각으로 정리를 해보았음.
     
     시험 신청 후 3주 정도 공부를 하였으며, 퇴근후 여유시간에 공부를 했기 때문에 절대적인 시간은 부족했음
 
@@ -47,7 +48,7 @@ AWS FAQ에 나와 있는 공식 답변이다.
 
 ### 1. 온라인 강의 듣기
 
-<img src="./images/epilogue_05.png" width="500">
+<img src="./images/epilogue_05.png" width="800">
 
 위 사이트에서 'AWS Cloud Practitioner Essentials(Second Edition)' 강의를 2번 들었음 (한국어 자막제공)
 
@@ -59,11 +60,11 @@ AWS FAQ에 나와 있는 공식 답변이다.
 
 ### 2. 연습시험 응시
 
-<img src="./images/epilogue_06.png" width="500">
+<img src="./images/epilogue_06.png" width="800">
 
 '연습 시험 응시' -> 'aws.training에서 등록'을 선택하면 위에서 시험을 등록한 사이트로 이동을 하게 됨 
 
-<img src="./images/epilogue_07.png" width="500">
+<img src="./images/epilogue_07.png" width="800">
 
 '새 시험 예약' 을 동일하게 선택해서 제공되는 시험목록을 보면 아래에 'AWS Practice Exams'에 있는 'AWS Certified Cloud Practitioner Practice' 을 선택하면 연습시험을 응시 할 수 있다.
 
