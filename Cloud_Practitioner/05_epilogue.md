@@ -9,21 +9,22 @@ https://aws.amazon.com/ko/certification/certification-prep/
 <img src="./images/epilogue_01.png" width="800">
 
 - '기초등급의 AWS Certification' 선택
+
+  <img src="./images/epilogue_02.png" width="800">
+
 - 기초등급에는 '클라우드 전문가' 1개만 있음
 - '지금 시험 예약'을 선택
 
-  <img src="./images/epilogue_02.png" width="800">
+  <img src="./images/epilogue_03.png" width="800">
 
 - 신규 페이지로 이동
 - 언어를 한국어로 변경
 - '새 시험 예약' 선택
 
-  <img src="./images/epilogue_03.png" width="800">
+  <img src="./images/epilogue_04.png" width="800">
 
 - 시험 목록에서 'AWS Certified Cloud Practitioner' 확인
 - 'Pearson VUE' or 'PSI' 선택해서 진행
-
-  <img src="./images/epilogue_04.png" width="800">
 
 > 'Pearson VUE' or 'PSI' 어느 곳에서 시험을 신청해도 상관없다. PSI보다는 Pearson VUE가 시험장소가 많은 것 같다.
 
@@ -75,6 +76,8 @@ AWS FAQ에 나와 있는 공식 답변이다.
 ### 3. AWS 사이트 읽어보기
 
 처음에는 온라인 교육에서 언급되지 않은 AWS의 모든 service를 보려는 큰 포부를 가지고 있었으나, 제공되는 Service가 너무 많아서 AWS 사이트에 주요 서비스라고 분류된 서비스만 읽어보고 나머지 시간에는 '요금'과 '고객지원' 부분을 주로 읽었다.
+
+<img src="./images/epilogue_08.png" width="800">
 
 > '요금'과 '고객지원'은 시험 출제 영역으로 분류되어 있는 항목이다.
 
